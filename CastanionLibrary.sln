@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastanionLibrary", "Castani
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastanionLibrary.Test", "..\CastanionLibrary.Test\CastanionLibrary.Test.csproj", "{031F76C6-A06D-42B1-9625-4470B4B66ED9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastanionLibrary.Generator", "..\CastanionLibrary.Generator\CastanionLibrary.Generator.csproj", "{B9796664-08E6-4268-BB2A-B01CA70764F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{031F76C6-A06D-42B1-9625-4470B4B66ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{031F76C6-A06D-42B1-9625-4470B4B66ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{031F76C6-A06D-42B1-9625-4470B4B66ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9796664-08E6-4268-BB2A-B01CA70764F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9796664-08E6-4268-BB2A-B01CA70764F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9796664-08E6-4268-BB2A-B01CA70764F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9796664-08E6-4268-BB2A-B01CA70764F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
